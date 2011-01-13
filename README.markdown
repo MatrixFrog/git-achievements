@@ -1,5 +1,5 @@
 Git-Achievements records all of the achievements you acquire while using Git.
 
-The achievements that I've unlocked so far are at http://matrixfrog.github.com/git-achievements/
+[Here are all the achievements that I've unlocked so far](http://matrixfrog.github.com/git-achievements/).
 
-See https://github.com/icefox/git-achievements/ for more information on `git-achievements` itself.
+[Here is some more information about `git-achievements`](https://github.com/icefox/git-achievements/).
